@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Snowypenguins
+- 👋 Hi, I’m @Snowypenguins Or Raytrac0
 - 👀 I’m interested in making my CPPS
-- 🌱 I’m currently learning Adtionscript 3
+- 🌱 I’m currently learning Actionscript 3
 - 💞️ I’m looking to collaborate on nothing. :(
 - 📫 Check out our CPPS were working n a AS3 version Soon... 
 
